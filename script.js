@@ -1,7 +1,7 @@
 // Kontaktliste Array zum Speichern der Kontakte
 let kontakte = [];
 
-// DOM Elemente
+//-- DOM Elemente
 const form = document.getElementById('kontakt-form');
 const nameInput = document.getElementById('name');
 const emailInput = document.getElementById('email');
